@@ -1,6 +1,6 @@
 # kubeadm
 
-# works with kubeadm 1.5 and up:
+# works with kubeadm v1.15 and up:
 
 ```
 kubeadm init --config=kubeadm-config.yaml --upload-certs
